@@ -1,0 +1,41 @@
+{
+    "SAI": [
+        {
+            "role": "user",
+            "content": "whis resume is this?"
+        },
+        {
+            "role": "assistant",
+            "content": "This is Anil Kumar Adapa's resume.\n"
+        },
+        {
+            "role": "user",
+            "content": "provide me the skills that have mentioned here"
+        },
+        {
+            "role": "assistant",
+            "content": "Proficient in house wiring and transformer maintenance; hands-on experience with installation, repair, and maintenance of electrical systems; good understanding of tools, meters, and electrical measuring instruments; problem-solving skills and ability to work independently or in a team.\n"
+        }
+    ],
+    "SURYA": [
+        {
+            "role": "user",
+            "content": "WHAT TO DO ON DAY 18"
+        },
+        {
+            "role": "assistant",
+            "content": "Begin learning about the Collections framework, including ArrayList, HashMap, HashSet, Stack, and Queue.\n"
+        }
+    ],
+    "sai": [],
+    "david": [
+        {
+            "role": "user",
+            "content": "what is the pdf about"
+        },
+        {
+            "role": "assistant",
+            "content": "The pdf is about a Java + DSA 90-Day Roadmap for placements. It is divided into four phases: Core Java, DSA Foundations, Advanced Java & Projects, and Placement Prep & Revision. The pdf covers topics such as Java basics, OOP, arrays, strings, collections, recursion, backtracking, dynamic programming, and problem-solving techniques. The pdf also provides practice problems, mini-projects, and mock interviews to prepare for interviews."
+        }
+    ]
+}
